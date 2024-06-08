@@ -1664,7 +1664,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .footerclass .grid {
-	margin-bottom: 1rem; /* Add this line */
+	margin-bottom: 1rem; 
   }
 
 body {
